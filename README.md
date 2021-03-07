@@ -1,6 +1,6 @@
 # Drink Water - When and how many cups did you take.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![image](https://user-images.githubusercontent.com/52255226/110258285-99ee3a00-7f80-11eb-8ec0-04a258f11956.png)
 
 ## Description
 
