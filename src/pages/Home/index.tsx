@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 import { Container, Button, Card, CardImg, Info } from './styles'
 import waterImg from '../../assets/water.svg';
 
