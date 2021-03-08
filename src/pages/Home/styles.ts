@@ -2,7 +2,7 @@ import styled from 'styled-components';
 import { shade } from 'polished';
 
 export const Container = styled.div`
-    height:100vh;
+    height:90vh;
     display:flex;
     flex-direction:column;
     align-items:center;
@@ -99,6 +99,9 @@ export const Button = styled.div`
 
 export const Card = styled.div`
     display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-wrap:wrap;
 
 `;
 

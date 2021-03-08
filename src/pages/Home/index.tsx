@@ -61,7 +61,6 @@ const Home: React.FC = () => {
                 </div>
             </Info>
             <Container>
-
                 <Card>
                     {counter > 0 && imgRepo.map(image => (
                         <CardImg key={image.id}>
@@ -76,7 +75,6 @@ const Home: React.FC = () => {
                     <button onClick={handleAddCounter}>+</button>
                 </Button>
             </Container>
-
         </>
     );
 }
